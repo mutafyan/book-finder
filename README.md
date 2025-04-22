@@ -22,5 +22,5 @@ It's perfect for book lovers and a great project to sharpen your React skills.
 
 💬 Toast notifications for user feedback (e.g., "Book added to favorites")
 
-⚙  Built with Vite + TypeScript + ESLint for a fast, type-safe, and well-linted development
+⚙  Built with Vite + JavaScript + ESLint for a fast, type-safe, and well-linted development
 workflow
